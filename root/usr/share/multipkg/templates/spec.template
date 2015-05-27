@@ -5,7 +5,7 @@ Release: %release%
 License: %license%
 Group: Local
 Provides: %name% %providelist%
-Packager: %whoami%
+Packager: %packager%
 BuildRoot: %buildroot%
 BuildArch: %arch%
 autoreqprov: no
