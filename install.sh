@@ -1,5 +1,5 @@
 #!/bin/bash
-
+LANG=C
 multipkg=$(which multipkg)
 
 if [ -z "$multipkg" ]; then
