@@ -1,0 +1,8 @@
+default:
+  build: '1'
+  name: cmake
+  release: '2'
+  summary: CMake is cross-platform free and open-source software for managing the build process of software using a compiler-independent method 
+  version: '2.8.12.2'
+  packager: feythin.lau
+  license: GPL

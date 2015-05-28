@@ -1,0 +1,4 @@
+#!/bin/sh
+./bootstrap
+make
+make install
