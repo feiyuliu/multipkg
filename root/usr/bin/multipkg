@@ -1,6 +1,7 @@
 #!/usr/bin/perl -w
 # Copyright (c) 2011 Yahoo! Inc. All rights reserved.
-
+$ENV{"LANG"} = "C";
+$ENV{"LC_ALL"} = "C";
 use strict;
 
 use constant MULTIPKG_VERSION => '__MULTIPKG_BUILD_VERSION__';
